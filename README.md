@@ -19,3 +19,5 @@ ttp.menu(MenuItems, 1)
 Save and run this code in the command prompt/terminal. 
 
 This allows the user to use arrow keys to choose an item, and then click enter to select the item. When the user selects an item, the selected item will be returned
+
+To see the rest of the features, check out the [wiki](https://github.com/MilesWK/texttoolspy/wiki).
