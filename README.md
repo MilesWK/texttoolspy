@@ -1,4 +1,4 @@
-# texttoolspy 0.0.3
+# texttoolspy 0.0.4
 Tools to make responsive and simple items in text.
 
 **How to install:**
