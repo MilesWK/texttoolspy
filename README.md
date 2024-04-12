@@ -1,4 +1,9 @@
 # texttoolspy 0.0.4
+
+[![PyPI version](https://badge.fury.io/py/texttoolspy.svg)](https://badge.fury.io/py/texttoolspy)
+[![PyPI - Status](https://img.shields.io/pypi/status/texttoolspy.svg)](https://pypi.org/project/texttoolspy/)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 Tools to make responsive and simple items in text.
 
 **How to install:**
