@@ -1,4 +1,4 @@
-# texttoolspy 0.0.4
+# texttoolspy 0.0.7
 
 [![PyPI version](https://badge.fury.io/py/texttoolspy.svg)](https://badge.fury.io/py/texttoolspy)
 [![PyPI - Status](https://img.shields.io/pypi/status/texttoolspy.svg)](https://pypi.org/project/texttoolspy/)
