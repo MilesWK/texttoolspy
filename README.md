@@ -17,11 +17,11 @@ Texttools is a module that creates responsive and simple "tools" in your python 
 
 Example usage of the `menu()` function:
 ```python
-import texttoolspy as ttp
+import texttoolspy as ttp # Import our module
 
-MenuItems = ["Item1","Item2","Item3"]
+MenuItems = ["Item1","Item2","Item3"] # Get our items
 
-ttp.menu(MenuItems, 1)
+ttp.menu(MenuItems, 1) # Turn our items into a menu!
 ```
 Save and run this code in the command prompt/terminal. 
 
