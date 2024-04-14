@@ -2,7 +2,6 @@
 
 [![PyPI](https://img.shields.io/pypi/v/texttoolspy)](https://pypi.org/project/texttoolspy/)
 [![PyPI - License](https://img.shields.io/pypi/l/texttoolspy)](https://pypi.org/project/texttoolspy/)
-[![PyPI - Downloads](https://img.shields.io/pypi/dm/texttoolspy)](https://pypi.org/project/texttoolspy/)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/texttoolspy)](https://pypi.org/project/texttoolspy/)
 
 
