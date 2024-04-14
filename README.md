@@ -1,6 +1,6 @@
 # texttoolspy 0.0.7
 
-[![PyPI](https://img.shields.io/pypi/v/texttoolspy)](https://pypi.org/project/texttoolspy/)
+![image](https://d25lcipzij17d.cloudfront.net/badge.svg?id=py&r=r&ts=1683906897&type=6e&v=0.0.7&x2=0)
 [![PyPI - License](https://img.shields.io/pypi/l/texttoolspy)](https://pypi.org/project/texttoolspy/)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/texttoolspy)](https://pypi.org/project/texttoolspy/)
 
