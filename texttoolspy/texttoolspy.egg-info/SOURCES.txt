@@ -1,0 +1,10 @@
+Licence.txt
+README.md
+setup.py
+texttoolspy/__init__.py
+texttoolspy/main.py
+texttoolspy.egg-info/PKG-INFO
+texttoolspy.egg-info/SOURCES.txt
+texttoolspy.egg-info/dependency_links.txt
+texttoolspy.egg-info/requires.txt
+texttoolspy.egg-info/top_level.txt
