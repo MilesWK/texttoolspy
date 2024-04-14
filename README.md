@@ -1,8 +1,10 @@
 # texttoolspy 0.0.7
 
-[![PyPI version](https://badge.fury.io/py/texttoolspy.svg)](https://badge.fury.io/py/texttoolspy)
-[![PyPI - Status](https://img.shields.io/pypi/status/texttoolspy.svg)](https://pypi.org/project/texttoolspy/)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![PyPI](https://img.shields.io/pypi/v/texttoolspy)](https://pypi.org/project/texttoolspy/)
+[![PyPI - License](https://img.shields.io/pypi/l/texttoolspy)](https://pypi.org/project/texttoolspy/)
+[![PyPI - Downloads](https://img.shields.io/pypi/dm/texttoolspy)](https://pypi.org/project/texttoolspy/)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/texttoolspy)](https://pypi.org/project/texttoolspy/)
+
 
 Tools to make responsive and simple items in text.
 
